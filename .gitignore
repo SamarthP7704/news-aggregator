@@ -1,0 +1,10 @@
+# Node modules for frontend
+frontend/node_modules/
+
+# Python virtual environment
+backend/venv/
+
+# Ignore build files
+frontend/build/
+
+.DS_Store

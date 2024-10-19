@@ -1,0 +1,7 @@
+flask
+beautifulsoup4
+requests
+newspaper3k
+spacy
+sumy
+flask-cors
